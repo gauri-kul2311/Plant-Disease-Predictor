@@ -16,4 +16,4 @@ quasar build
 
 # Customize the configuration
 
-[See] (Configuring quasar.conf.js.)
+[See] [Configuring quasar.conf.js.]
