@@ -1,0 +1,401 @@
+{
+  "1": {
+    "name": "Apple Scab",
+    "symptoms": [
+      "Apple Scab is a fungal disease which can affect the leaves, fruit, and twigs of flowering, ornamental trees such as crabapple, hawthorn (Venturia inequalis) and pear (V. pirina). Infection on newly emerging leaves is favored by wet and cool spring conditions.",
+      "Early symptoms of Apple Scab are brownish-green spots on the leaves or fruit. As the infection progresses, the spots become darker and more prominent and take on a velvety texture due to spore (conidia) formation. Severe infections result in leaf drop off and thinned canopy early, in the summer months."
+    ],
+    "solution": [
+      "To treat apple scab, rake under the trees regularly and destroy the infected leaves that hold the fungal spores. This will halt the progression of the disease and prevent it from carrying on the wind to other healthy trees or reoccurring the following spring.",
+      "Liquid copper soap can be sprayed on the tree to prevent the disease before it starts; follow up with a second spraying a week later.Apple Scab can be treated with: Propizol® Fungicide (Crabapples only) or PHOSPHO-jet."
+    ],
+    "image": "apple.png"
+  },
+  "2": {
+    "name": "Apple Black Rot",
+    "symptoms": [
+      "This fungus causes reddish brown cankers that are slightly below the level of the healthy bark around it.",
+      " One unusual characteristic of these cankers is that they tend to spread more quickly along the length of the branch rather than going around it."
+    ],
+    "solution": [
+      "Remove the cankers by pruning at least 15 inches below the end and burn or bury them. Also take preventative care with new season prunings and burn them, too.Weed regularly to improve air circulation and light access around all plants affected by black rot. Remove all dead plant material from the area, placing it into plastic trash bags to prevent further spread of the disease.",
+      "Prune the dead or infected branches from apple trees and grapevines, disinfecting the pruning shears with a 70 percent alcohol solution after each cut. Also improve circulation in the center of the plant by pruning away congested branches.",
+      "Pluck all mummified fruit from apple trees and grapevines as soon as possible, as these house fungal spores and cause the disease to spread. Dispose of the fruit in plastic trash bags.",
+      "Treat stubborn grapevine and apple infections with a commercial fungicide containing captan once the year's new growth reaches 4 to 6 inches in length. Add 1 tablespoon of captan fungicide to a gallon of water and mix it thoroughly in a hand sprayer tank. Pumping the handle, coat the branches and leaves completely. Repeat the application once every 7 to 10 days until the fruit begins to change color.",
+      "Rotate crucifer crops every two years, using black rot-resistant cultivars. When replanting, soak seeds in hot water to kill black rot and wait until a warm, dry day to sow the seeds."
+    ],
+    "image": "apple.png"
+  },
+  "3": {
+    "name": "Apple Cedar Rust",
+    "symptoms": [
+      "Small yellow spots on leaves.",
+      "Enlarged spots (lesions) have a dark brownish-red border with tan to dark brown centers."
+    ],
+    "solution": [
+      "Mancozeb is available as BONIDE MANCOZEB FLOWABLE fungicide.It contains 37% Mancozeb and should be very effective for controlling black rot.",
+      "Nova (myclobutanil) is available in IMMUNOX FUNGICIDE.It is 1.55 % myclobutanil and should be effective for controlling black rot."
+    ],
+    "image": "apple.png"
+  },
+  "4": {
+    "name": "Brown Spot of Apricot leaves",
+    "symptoms": [
+      "The symptoms of brown rot are very similar on all stone fruit. Symptoms first appear in the spring as the blossoms open.",
+      "Diseased flowers wilt, turn brown, and may become covered with masses of brownish-gray spores.",
+      "The diseased flowers usually remain attached into the summer.",
+      "The entire fruit rots rapidly, then dries and shrinks into a wrinkled “mummy.” The fungus may move from diseased blossoms or fruit into the spurs.",
+      "The fungus may then invade and cause diseased areas (cankers) on the twigs below."
+    ],
+    "solution": [
+      "Sanitation is very important in controlling brown rot. All dropped and rotted fruit should be picked up and destroyed promptly. At the same time, remove all mummies from the trees.",
+      "Control of insects that feed on fruit is essential. Remember that anything that causes wounding of the fruit will increase the incidence of brown rot. ",
+      "Remove wild or neglected stone fruit trees that serve as reservoirs for the disease.",
+      "Fruit should be cooled and refrigerated (as close to 32 degrees F as possible) immediately after harvest."
+    ],
+    "image": "apricot.png"
+  },
+  "5": {
+    "name": "Cherry Powdery Mildew",
+    "symptoms": [
+      "Leaf scorch symptoms are very similar to the early stages of common (Mycosphaerella) leaf spot, with irregular dark purple spots being scattered over the upper leaf surface. As the spots enlarge, they begin to look like drops of tar, and are actually the accumulations of black fruiting bodies (acervuli) of the fungus. The centers of the spots remain purple (in Mycosphaerella leaf spot they are white) and there is no well-defined lesion border.",
+      "In heavy infections, these regions coalesce and the tissue between the lesions often takes on a purplish to bright red color that is dependent on cultivar, temperature, or other factors. The leaves eventually turn brown, dry up, and curl at the margins giving the leaf a scorched appearance. Examination of the acervuli and conidial morphology can help to distinguish between leaf spot and leaf scorch at this advanced stage of disease.",
+      "On the upper leaf surfaces of leaf scorch lesions, the acervuli are dark with glistening spore masses and dark apothecia. Petiole lesions are elongate, sunken, with a purplish to brown color and can kill the leaf by girdling the petiole. Runners, fruit stalks, fruit and caps can also become infected. Plants may become weakened and the number and vigor of crowns reduced. Infection predisposes the plants to winter and drought stress. In severe infestations, flowers and fruit may die. Overall, there can be a serious reduction in yield in matted row systems. It has not been observed as a yield-reducing problem in annual production systems."
+    ],
+    "solution": [
+      "To treat apple scab, rake under the trees regularly and destroy the infected leaves that hold the fungal spores. This will halt the progression of the disease and prevent it from carrying on the wind to other healthy trees or reoccurring the following spring.",
+      "Liquid copper soap can be sprayed on the tree to prevent the disease before it starts; follow up with a second spraying a week later.Apple Scab can be treated with: Propizol® Fungicide (Crabapples only) or PHOSPHO-jet."
+    ],
+    "image": "cherry.png"
+  },
+  "6": {
+    "name": "Corn(Maize) Gray Leaf Spot",
+    "symptoms": [
+      "Brown Spots with yellow rings throughout the leaf during the growing period of the Cassava",
+      "Lesions that are 0.15-0.2 cm in diameter"
+    ],
+    "solution": [
+      "Plant corn hybrids with resistance to the disease.",
+      "crop rotation and plowing debris into soil may reduce levels of inoculum in the soil but may not provide control in areas where the disease is prevalent",
+      "foliar fungicides may be economically viable for some high yeilding susceptible hybrids."
+    ],
+    "image": "corn.png"
+  },
+  "7": {
+    "name": "Corn(Maize) Common Rust",
+    "symptoms": [
+      "Oval or elongated cinnamon brown pustules on upper and lower surfaces of leaves",
+      "pustules rupture and release powdery red spores; pustules turn dark brown-black as they mature and release dark brown powdery spores",
+      "if infection is severe, pustules may appear on tassels and ears and leaves may begin to yellow",
+      "in partially resistant corn hybrids, symptoms appear as chlorotic or necrotic flecks on the leaves which release little or no spore"
+    ],
+    "solution": [
+      "The most effective method of controlling the disease is to plant resistant hybrids",
+      "Application of appropriate fungicides may provide some degree on control and reduce disease severity",
+      "Fungicides are most effective when the amount of secondary inoculum is still low, generally when plants only have a few rust pustules per leaf."
+    ],
+    "image": "corn.png"
+  },
+  "8": {
+    "name": "Corn(Maize) Northern Leaf Blight",
+    "symptoms": [
+      "In the beginning we will notice elliptical gray-green lesions on leaves.",
+      "As the disease process this lesions become pale gray to tan color.",
+      "Later stage the lesions looks dirty due to dark gray spores particularly under lower leaf surface",
+      "The disease can be easily identified in the field due to its long, narrow lesions which are unrestricted by veins"
+    ],
+    "solution": [
+      "Follow proper tillage to reduce fungus inoculum from crop debris.",
+      "Follow crop rotation with non host crop.",
+      "Grow available resistant varieties.",
+      " In severe case of disease incidence apply suitable fungicide."
+    ],
+    "image": "corn.png"
+  },
+  "9": {
+    "name": "Grape Black Rot",
+    "symptoms": [
+      "Brown lesions on the leaves that develop black dots (pycnidia).",
+      "Grapes have light spots that eventually form pycnidia.",
+      "Grapes harden and turn black, while still remaining on the vine"
+    ],
+    "solution": [
+      "Remove all mummified fruit from vines during dormant pruning",
+      "Cultivate soil during bud break to bury mummies and reduce inoculant",
+      "Application of appropriate fungicides can help control the disease"
+    ],
+    "image": "grape.png"
+  },
+  "10": {
+    "name": "Grape Esca",
+    "symptoms": [
+      "Symptom appears on leaves, trunk, canes and berries.",
+      "On leaves we will see intervenaial striping looks like tiger strips.",
+      "White cultivars shows chlorotic and necrotic strips where as red cultivars shows red areas and necrotic strips.",
+      "On berries we will see superficial spots and later may coalesce making berries appear black.",
+      "Runk/Arm/Cordons shows dark brown black vascular streaking and oozes dark sap when we cut trunk."
+    ],
+    "solution": [
+      "Till date there is no effective method to control this disease.",
+      "Remove the infected berries, leaves and trunk and destroy them.",
+      "Protect the prune wounds to minimize fungal infection using wound sealant (5% boric acid in acrylic paint) or essential oil or suitable fungicides."
+    ],
+    "image": "grape.png"
+  },
+  "11": {
+    "name": "Grape Leaf Blight",
+    "symptoms": [
+      "On leaf surface we will see lesions which are irregularly shaped (2 to 25 mm in diameter).",
+      "Initially lesions are dull red to brown in color turn black later.",
+      "If disease is severe this lesions may coalesce.",
+      "On berries we can see symptom similar to black rot but the entire clusters will collapse."
+    ],
+    "solution": [
+      "Fungicides sprayed for other diseases in the season may help to reduce this disease."
+    ],
+    "image": "grape.png"
+  },
+
+  "12": {
+    "name": "Orange Citrus Greening",
+    "symptoms": [
+      "Leaf symptoms of citrus greening include yellowing of one limb or one area of canopy, yellowing of leaf veins.",
+      "Blotchy mottling and/or green islands (spots) surrounded by completely yellow leaf tissue.",
+      "Twig and limbs begin to die back.",
+      "Fruit has a bitter, salty taste."
+    ],
+    "solution": [
+      "Cultural control Once a tree becomes infected with HLB, it cannot be cured. Control is therefore reliant on preventing the disease occurring in the first place and this is achieved through strict quarantining to prevent the introduction of citrus psyllids to areas which are currently free of the pest.",
+      " Areas which are subject to quarantine have restrictions placed on the movement of citrus plants, fruit, equipment and items made from citrus.",
+      "Infected trees should be removed as quickly as possible from plantations and destroyed."
+    ],
+    "image": "orange.png"
+  },
+  "13": {
+    "name": "Peach Bacterial Spot",
+    "symptoms": [
+      "Water soaked, angular gray lesions on the underside of the leaves which turn purple and necrotic in the center and cause a shot hole appearance if lesion center drops out.",
+      "If lesions are present in high numbers on leaves they may become chlorotic and drop from tree.",
+      "Cankers develop on twigs either as raised blisters or as a dark area surrounding a bud that fails to open",
+      "lesions on fruit begin as small brown, water-soaked lesions which may exude gum."
+    ],
+    "solution": [
+      "Avoid planting susceptible peach varieties in areas where disease is known",
+      "Once disease is visible it can be difficult to control, protective copper applications in the Fall prior to leaf drop and/or application in early growing season may help prevent the disease.",
+      "Care should be taken as peach trees are very sensitive to copper."
+    ],
+    "image": "peach.png"
+  },
+  "14": {
+    "name": "Peach canker",
+    "symptoms": [
+      "The first symptoms appear in early spring as gummy drops of sap around wounded bark. ",
+      "The diseased inner bark begins to break down, causing the cankered surface to appear depressed.",
+      "Black specks, which are fungal spore producing bodies, appear on the bark surface or under the bark tissue. ",
+      "During wet periods spores ooze out of these fungal bodies in tiny orange or amber coloured, curled strands."
+    ],
+    "solution": [
+      "Prune young trees carefully to avoid weak, narrow-angled crotches. Narrow- angled crotches are frequent sites of breakage and winter injury.",
+      "Delay pruning until early spring. This promotes quick healing. Remove cankered branches and dead wood while pruning. Do not leave protruding pruning stubs. Cut flush to the next larger branch.",
+      "Eradicate cankers and remove badly cankered limbs, branches or trees. Burn or remove all cankered limbs soon after pruning. These limbs or branches serve as a reservoir for the disease causing fungi. Sanitation is critical, especially during the early life of the orchard.",
+      "Do not plant new peach trees near established trees with canker.",
+      "Avoid mechanical and insect injury."
+    ],
+    "image": "peach.png"
+  },
+  "15": {
+    "name": "Peach Leaf Curl",
+    "symptoms": [
+      "Symptoms of leaf curl appear in the spring.",
+      "Developing leaves become severely distorted, and have a reddish or purple cast. ",
+      "Later, as spores form on the leaf surface, the leaves become powdery gray in colour. Shortly after this, the leaves turn yellow or brown and drop."
+    ],
+    "solution": [
+      "A single fungicide spray, thoroughly covering the entire tree, will provide control.",
+      "If leaf curl does result in significant defoliation in the spring, the fruit on affected trees should be thinned to compensate for the loss of leaves.",
+      "Over-cropping the tree will weaken it and make it more susceptible to winter injury."
+    ],
+    "image": "peach.png"
+  },
+  "16": {
+    "name": "Pepper Bell Bacterial Spot",
+    "symptoms": [
+      "Water-soaked lesions that dry out and turn brown forming on the underside of the leaves",
+      "raised brown cankers on stems",
+      "cracked brown lesions on fruit."
+    ],
+    "solution": [
+      "Use disease free planting material",
+      "Remove and destroy all crop debris after harvest, or plow material deeply under soil."
+    ],
+    "image": "pepperbell.png"
+  },
+  "17": {
+    "name": "Potato Early Blight",
+    "symptoms": [
+      "Symptoms of early blight occur on fruit, stem and foliage of tomatoes and stem, foliage and tubers of potatoes.",
+      " Initial symptoms on leaves appear as small 1-2 mm black or brown lesions "
+    ],
+    "solution": [
+      "Treatment of early blight includes prevention by planting potato varieties that are resistant to the disease; late maturing are more resistant than early maturing varieties.",
+      " Avoid overhead irrigation and allow for sufficient aeration between plants to allow the foliage to dry as quickly as possible."
+    ],
+    "image": "potato.png"
+  },
+  "18": {
+    "name": "Potato Late Blight",
+    "symptoms": [
+      "Late blight will first appear as water-soaked spots, usually at the tips or edges of lower leaves where water or dew tends to collect.",
+      " Under moist, cool conditions, water-soaked spots rapidly enlarge and a broad yellow halo may be seen surrounding the lesion"
+    ],
+    "solution": [
+      "The severe late blight can be effectively managed with prophylactic spray of mancozeb at 0.25% followed by cymoxanil+mancozeb or dimethomorph+mancozeb at 0.3% at the onset of disease"
+    ],
+    "image": "potato.png"
+  },
+  "19": {
+    "name": "Leaf Anthracnose of Raspberry",
+    "symptoms": [
+      "Anthracnose first appears in the spring on the young shoots as small, purplish, slightly raised or sunken spots.",
+      "Later, they enlarge and become ash gray in the centre with slightly raised purple margins.",
+      "The spots are often so close together on black and purple raspberries that they form large irregular areas (cankers). ",
+      "The cankers may encircle the cane, sometimes causing the death of the cane beyond the canker. ",
+      "The bark in badly cankered areas often splits. Late season infections result in superficial gray, oval spots."
+    ],
+    "solution": [
+      "Remove all wild brambles growing in the area because they can serve as a reservoir for the disease.",
+      "Where the disease is established in the planting, fungicide applications are generally required to achieve adequate control.",
+      "All steps possible should be taken to improve air circulation within a planting, to allow faster drying of foliage and canes. Reducing the number and duration of wet periods should reduce the potential for infection.",
+      "Excessive applications of fertilizer (especially nitrogen) should be avoided,since it promotes excessive growth of very susceptible succulent plant tissue."
+    ],
+    "image": "rasberry.png"
+  },
+  "20": {
+    "name": "Squash Powdery Mildew",
+    "symptoms": [
+      "The first sign of powdery mildew is pale yellow leaf spots.",
+      "White powdery spots can form on both upper and lower leaf surfaces, and quickly expand into large blotches."
+    ],
+    "solution": [
+      "Consider spraying infected plants with protectant (preventative) fungicides. Effective organic fungicides for treating powdery mildew include sulfur, lime-sulfur, neem oil, and potassium bicarbonate."
+    ],
+    "image": "squash.png"
+  },
+  "21": {
+    "name": "Strawberry Leaf Scorch",
+    "symptoms": [
+      "Leaf scorch symptoms are very similar to the early stages of common (Mycosphaerella) leaf spot, with irregular dark purple spots being scattered over the upper leaf surface. As the spots enlarge, they begin to look like drops of tar, and are actually the accumulations of black fruiting bodies (acervuli) of the fungus. The centers of the spots remain purple (in Mycosphaerella leaf spot they are white) and there is no well-defined lesion border.",
+      "In heavy infections, these regions coalesce and the tissue between the lesions often takes on a purplish to bright red color that is dependent on cultivar, temperature, or other factors. The leaves eventually turn brown, dry up, and curl at the margins giving the leaf a scorched appearance. Examination of the acervuli and conidial morphology can help to distinguish between leaf spot and leaf scorch at this advanced stage of disease.",
+      "On the upper leaf surfaces of leaf scorch lesions, the acervuli are dark with glistening spore masses and dark apothecia. Petiole lesions are elongate, sunken, with a purplish to brown color and can kill the leaf by girdling the petiole. Runners, fruit stalks, fruit and caps can also become infected. Plants may become weakened and the number and vigor of crowns reduced. Infection predisposes the plants to winter and drought stress. In severe infestations, flowers and fruit may die. Overall, there can be a serious reduction in yield in matted row systems. It has not been observed as a yield-reducing problem in annual production systems."
+    ],
+    "solution": [
+      "While leaf scorch on strawberry plants can be frustrating, there are some strategies which home gardeners may employ to help prevent its spread in the garden. The primary means of strawberry leaf scorch control should always be prevention. Since this fungal pathogen overwinters on the fallen leaves of infected plants, proper garden sanitation is key. This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants. The creation of new plantings and strawberry patches is key to maintaining a consistent strawberry harvest, as older plants are more likely to show signs of severe infection.",
+      "Treat leaf scorch by letting your plants dry out. The best way to treat this disease is to alter watering practices and allow for dryer conditions. If that isn’t possible, you can treat your strawberries with organic fungicides like Captan 50 WP and Copper compounds."
+    ],
+    "image": "strawberry.png"
+  },
+  "22": {
+    "name": "Tomato Bacterial Spot",
+    "symptoms": [
+      "Small, brown, circular spots may also occur on stems and the fruit calyx. Fruit spots are ¼ inch, slightly raised, brown and scabby. Tomato fruit often have a waxy white halo surrounding the fruit spot. Pepper fruit spots often occur on the stem-end of the fruit."
+    ],
+    "solution": [
+      "Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants. Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit."
+    ],
+    "image": "tomato.png"
+  },
+  "23": {
+    "name": "Tomato Early Blight",
+    "symptoms": [
+      "Initially, small dark spots form on older foliage near the ground.",
+      "Leaf spots are round, brown and can grow up to half inch in diameter.",
+      "Larger spots have target-like concentric rings.",
+      "Severely infected leaves turn brown and fall off, or dead, dried leaves may cling to the stem."
+    ],
+    "solution": [
+      "Tomatoes that have early blight require immediate attention before the disease takes over the plants. Thoroughly spray the plant (bottoms of leaves also) with Bonide Liquid Copper Fungicide concentrate or Bonide Tomato & Vegetable. Both of these treatments are organic."
+    ],
+    "image": "tomato.png"
+  },
+  "24": {
+    "name": "Tomato Late Blight",
+    "symptoms": [
+      "Firm, dark brown, circular spots grow to cover large parts of fruits. Spots may become mushy as secondary bacteria invade. In high humidity, thin powdery white fungal growth appears on infected leaves, fruit and stems. In cool, wet weather, entire fields turn brown and wilted as if hit by frost."
+    ],
+    "solution": [
+      "Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.",
+      "Apply a copper based fungicide (2 oz/ gallon of water) every 7 days or less, following heavy rain or when the amount of disease is increasing rapidly. If possible, time applications so that at least 12 hours of dry weather follows application."
+    ],
+    "image": "tomato.png"
+  },
+  "25": {
+    "name": "Tomato Leaf Mold",
+    "symptoms": [
+      "Pale greenish-yellow spots, usually less than 1/4 inch, with no definite margins, form on upper sides of leaves. Olive-green to brown velvety mold forms on the lower leaf surface below leaf spots. Leaf spots grow together and turn brown. Leaves wither and die but often remain attached to the plant."
+    ],
+    "solution": [
+      "Use drip irrigation and avoid watering foliage. Use a stake, strings, or prune the plant to keep it upstanding and increase airflow in and around it. Remove and destroy (burn) all plants debris after the harvest."
+    ],
+    "image": "tomato.png"
+  },
+  "26": {
+    "name": "Tomato Septoria Leaf Spot",
+    "symptoms": [
+      "Septoria leaf spot usually appears on the lower leaves after the first fruit sets.",
+      "Spots are circular, about 1/16 to 1/4 inch in diameter with dark brown margins and tan to gray centers with small black fruiting structures. Characteristically, there are many spots per leaf."
+    ],
+    "solution": [
+      "Organic fungicides can go a long way towards treating and preventing fungal infections like septoria leaf spot.",
+      " Fungicides containing copper and potassium bicarbonate will help contain the fungal disease and keep it from spreading. ",
+      "Start spraying as soon as you notice symptoms of septoria leaf spot."
+    ],
+    "image": "tomato.png"
+  },
+  "27": {
+    "name": "Tomato Spider Mites",
+    "symptoms": [
+      "Tomato red spider mite feeding causes whitening or yellowing of leaves, which then dry out and eventually fall off. In the case of severe attacks, plant damage progresses very quickly, and hosts may die within 3–5 weeks, if no management actions are taken."
+    ],
+    "solution": [
+      "Spray insecticidal soap on tomato plants to kill spider mites. Purchase a commercially-made insecticidal soap at a garden centre or hardware store or make your own. Spray the soap onto your tomato plants, making sure to focus the spray on the undersides of the leaves where spider mites live."
+    ],
+    "image": "tomato.png"
+  },
+  "28": {
+    "name": "Tomato Target Spot",
+    "symptoms": [
+      "Spread to all leaflets and to other leaves is rapid, causing the leaves to turn yellow, collapse and die. Spots also occur on the stems. They are long and thin. Small light brown spots with dark margins may also occur on the fruit."
+    ],
+    "solution": [
+      " Water tomato plants in the morning so the leaves have time to dry. Water at the base of the plant or use a soaker hose or drip system to keep the leaves dry. Apply a mulch to keep the fruit from coming in direct contact with the soil."
+    ],
+    "image": "tomato.png"
+  },
+  "29": {
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": [
+      "Leaves of infected plants are small and curl upward; and show strong crumpling and interveinal and marginal yellowing.",
+      " The internodes of infected plants become shortened and, together with the stunted growth, plants often take on a bushy appearance, which is sometimes referred to as 'bonsai' or broccoli'-like growth."
+    ],
+    "solution": [
+      "Plant tomato cultivars less susceptible to yellow leaf virus.",
+      "Mulch to maintain consistent soil moisture.",
+      "Avoid heavy pruning fo tomatoes.",
+      "Water as necessary."
+    ],
+    "image": "tomato.png"
+  },
+  "30": {
+    "name": "Tomato Mosaic Virus",
+    "symptoms": [
+      "Mottled light and dark green on leaves.",
+      "If plants are infected early, they may appear yellow and stunted overall.",
+      "Leaves may be curled, malformed, or reduced in size."
+    ],
+    "solution": [
+      "Sanitation and vine surgery may help maintain yields. ",
+      "Remove all infected plants and destroy them. Do NOT put them in the compost pile, as the virus may persist in infected plant matter."
+    ],
+    "image": "tomato.png"
+  }
+}

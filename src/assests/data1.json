@@ -1,0 +1,48 @@
+{
+  "1": {
+    "name": "Apple Scab",
+    "symptoms": ["TRY YOURSELF"],
+    "solution": [
+      {
+        "id": 1,
+        "method": "To treat apple scab, rake under the trees regularly and destroy the infected leaves that hold the fungal spores. This will halt the progression of the disease and prevent it from carrying on the wind to other healthy trees or reoccurring the following spring."
+      },
+      {
+        "id": 2,
+        "method": "Liquid copper soap can be sprayed on the tree to prevent the disease before it starts; follow up with a second spraying a week later.Apple Scab can be treated with: Propizol® Fungicide (Crabapples only) or PHOSPHO-jet."
+      }
+    ]
+  },
+  "2": {
+    "name": "Apple Black Rot",
+    "symptoms": ["TRY YOURSELF"],
+    "solution": [
+      {
+        "id": 1,
+        "method": "Remove the cankers by pruning at least 15 inches below the end and burn or bury them. Also take preventative care with new season prunings and burn them, too.Weed regularly to improve air circulation and light access around all plants affected by black rot. Remove all dead plant material from the area, placing it into plastic trash bags to prevent further spread of the disease."
+      },
+      {
+        "id": 2,
+        "method": "Prune the dead or infected branches from apple trees and grapevines, disinfecting the pruning shears with a 70 percent alcohol solution after each cut. Also improve circulation in the center of the plant by pruning away congested branches."
+      },
+      {
+        "id": 3,
+        "method": "Pluck all mummified fruit from apple trees and grapevines as soon as possible, as these house fungal spores and cause the disease to spread. Dispose of the fruit in plastic trash bags."
+      }
+    ]
+  },
+  "3": {
+    "name": "Strawberry leaf Scorch",
+    "symptoms": ["TRY YOURSELF"],
+    "solution": [
+      {
+        "id": 1,
+        "method": "While leaf scorch on strawberry plants can be frustrating, there are some strategies which home gardeners may employ to help prevent its spread in the garden. The primary means of strawberry leaf scorch control should always be prevention. Since this fungal pathogen overwinters on the fallen leaves of infected plants, proper garden sanitation is key. This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants. The creation of new plantings and strawberry patches is key to maintaining a consistent strawberry harvest, as older plants are more likely to show signs of severe infection."
+      },
+      {
+        "id": 2,
+        "method": "Treat leaf scorch by letting your plants dry out. The best way to treat this disease is to alter watering practices and allow for dryer conditions. If that isn’t possible, you can treat your strawberries with organic fungicides like Captan 50 WP and Copper compounds."
+      }
+    ]
+  }
+}
