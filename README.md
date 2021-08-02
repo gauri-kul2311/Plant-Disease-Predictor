@@ -1,7 +1,9 @@
 # Plant-Disease-Predictor
-Plant Disease Predictor (plant_disease_predictor)
+The aim of this project is to diagnose plant diseases by developing an image classifier. A web application  which will allow user to take a photograph of the leaf and upload it on the site. It will thereby analyse the picture and classify the plant on the basis of its type as well as identify type of disease the plant is suffering with, if any.
 
-An app to detect disease suffering by plant
+#### PlantVillageDataset
+https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
+
 #### Install the dependencies
 
 npm install
